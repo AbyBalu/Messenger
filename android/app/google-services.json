@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "470626297371",
+    "firebase_url": "https://greenlight-75629.firebaseio.com",
+    "project_id": "greenlight-75629",
+    "storage_bucket": "greenlight-75629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470626297371:android:dc2bdcc92fd5461e4ebabe",
+        "android_client_info": {
+          "package_name": "com.example.greenlight_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470626297371-uv8947ulu6ob1bmm43i54e9l26k9hotr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenlight_messenger",
+            "certificate_hash": "f873df2898281bbc56462c1613c715ffa2142714"
+          }
+        },
+        {
+          "client_id": "470626297371-0aog8fsjilccpu5omfh3756eceqs4vr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntkNSjVRcILaQzC_fdkreJAeZujyhcXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470626297371-0aog8fsjilccpu5omfh3756eceqs4vr1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470626297371-d3a25guc4818f7kgmd8vbh8bfebi573k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.greenlightMessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
